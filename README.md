@@ -36,4 +36,4 @@ Featuring task creation, notifications, and a clean user interface, it delivers 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/EngrJosimuddin/flutter_task_manager.git
+   git clone https://github.com/EngrJosimuddin42/flutter_task_manager.git
