@@ -4,7 +4,7 @@
 👨‍💻 **Developer:** Engr. Josimuddin (he/him)  
 🏢 **Company:** Independent Developer  
 📍 **Location:** Dhaka, Bangladesh  
-🔗 **LinkedIn:** [Engr. Josimuddin](https://www.linkedin.com/in/engrjosimuddin)
+🔗 **Portfolio / LinkedIn:** [LinkedIn](https://www.linkedin.com/in/engrjosimuddin)
 
 ---
 
