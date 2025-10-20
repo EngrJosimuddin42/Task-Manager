@@ -37,3 +37,19 @@ Featuring task creation, notifications, and a clean user interface, it delivers 
 1. Clone the repository
    ```bash
    git clone https://github.com/EngrJosimuddin42/Task-Manager.git
+
+---
+
+🧑‍💻 Author
+Engr. Josimuddin
+📧 josimcse@gmail.com
+
+---
+🪪 License
+This project is licensed under the MIT License — 
+you’re free to use, modify, and distribute it with proper attribution.
+
+---
+
+⭐ If you like this project, don’t forget to star the repo and share it!
+
